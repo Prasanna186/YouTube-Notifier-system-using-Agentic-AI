@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.env*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE configs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Large data/models (optional, if you use ML)
+*.h5
+*.pt
+*.pth
+*.onnx
+*.ckpt
